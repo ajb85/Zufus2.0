@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.1.2",
+    "requiredir": "^1.0.7",
+    "warframe-worldstate-data": "github:wfcd/warframe-worldstate-data"
+  }
+}
